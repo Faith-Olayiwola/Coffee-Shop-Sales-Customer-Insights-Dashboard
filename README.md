@@ -1,7 +1,7 @@
 # Coffee Bean Orders Analysis (Product, Loyalty, and Seasonal Trends Analysis)
 
-## Table of Content
-1. Project Overview
+## Table of Contents
+1. -[Project Overview] (#project-overview) 
 2. Data Source
 3. Tools
 4. Data Cleaning and Preparation
@@ -24,17 +24,25 @@
    - Total Revenue: $45.13k
    ---
 ## Tools Used
-  -  Power BI Desktop (Primary) - data visualization [download here] (https://microsoft.com)
-  -  Power Query - data cleaning
-  -  Data Modelling in Power BI - Manage Relationships to ensure correct cordinality and cross-filter direction
-  -  DAX - measures
-  -  PowerPoint - Dashboard Template designing
+  -  **Power BI Desktop** - data visualization and dashboard
+       - [download here] (https://microsoft.com)
+  -  **Power Query** - data cleaning
+  -  **Data Modelling in Power BI** - Manage Relationships to ensure correct cordinality and cross-filter direction
+  -  **DAX** - measures
+  -  **PowerPoint** - Dashboard Template designing
 
 ## Data Cleaning and Preparation
-### **Steps Taken**
-1. **Replaced values**
+### **Steps Taken in Power BI**
+-**Merged datasets** from different tables
+-**Handling Missing Values** and replaced nulls
+-**Removed duplicates** for data accuracy
+
+1. **Data Loading and Inspection**
+2. **Handling Missing Values** and replaced nulls 
+3.  **Replaced values**
    Table.ReplaceValue(#"Replaced Value5","Exc","Excelsa",Replacer.ReplaceText,{"Coffee Type"})
    Table.ReplaceValue(#"Removed Columns","L","Light",Replacer.ReplaceText,{"Roast Type"})
 
-2. **Removing Irrelevant Columns**
+4. **Removing Irrelevant Columns**
+5. **Explorative Data Analysis**
    
