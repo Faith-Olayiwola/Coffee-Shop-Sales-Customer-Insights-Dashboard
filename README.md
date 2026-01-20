@@ -95,7 +95,7 @@ To support analysis, several measures are created:
 
 ## 7. Dashboard Design & Visuals
 ### Overview Dashboard
-An interactive dashboard analyzing coffee bean shop sales across countries, customer segments, product types, roast profiles, and seasonal trends. Built to uncover revenue drivers, customer behaviour, and optimization opportunities.
+An interactive dashboard analysing coffee bean shop sales across countries, customer segments, product types, roast profiles, and seasonal trends. Built to uncover revenue drivers, customer behaviour, and optimisation opportunities.
 **Key Metrics at a glance**
 - Total Revenue
 - Total Orders
@@ -147,11 +147,11 @@ This page helps managers evaluate sales performance.
 3. Robusta — 118k
 4. Liberica — 107k
 
-** Excelsa leads both in revenue and number of customers — currently the star product.** 
-** Robusta lags noticeably — lowest revenue and fewer buyers** 
+**Excelsa leads both in revenue and number of customers, currently the star product.** 
+**Robusta lags noticeably, has the lowest revenue, and has fewer buyers.** 
 
 ### Roast Type Preference
-Revenue contribution :
+Revenue contribution:
 - Light roast — ~35.4% ($7.41K)
 - Medium roast — ~33.6% ($7.03K)
 - Dark roast — ~30.96% ($6.48K)
