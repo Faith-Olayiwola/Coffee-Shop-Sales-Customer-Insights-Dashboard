@@ -74,9 +74,9 @@ The Coffee Bean Shop lacks a unified and interactive view of sales performance, 
     - D - Dark
 4. Verified and corrected data types, ensuring dates, text, numbers, and currencies were properly assigned.
 5. Checked for spelling errors and column name inconsistencies and corrected them.
-6. Removed irrelevants columns.
+6. Removed irrelevant columns.
 7. Establish relationships between the Product Table and Order Table with the **Product ID** |
-   Establish relationship between the Customer Table and Order Table with the **Customer ID**
+   Establish a relationship between the Customer Table and Order Table with the **Customer ID**
 
    These steps ensured a clean, accurate, and analysis-ready dataset.
    ---
@@ -94,8 +94,8 @@ To support analysis, several measures are created:
 
 
 ## 7. Dashboard Design & Visuals
-### Overview Dasboard
-This page provide provides a full snapshort and includes:
+### Overview Dashboard
+This page provides a full snapshot and includes:
 - 
 
 
@@ -105,7 +105,7 @@ Filter for:
 This page helps managers evaluate sales performance.
 
 ## Live Dashboard
-[Click here to view the Power BI Reprot] (
+[Click here to view the Power BI Report] ( 
 
 
    
