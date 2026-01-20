@@ -12,7 +12,7 @@
    - Page 2: Salesperson-details
 8. Key Insights from the Dashboard
 9. Tools Used
-10. Project Delieverables 
+10. Project Deliverables 
 11. Potential Extensions
 
 
@@ -20,11 +20,11 @@
    ## 1. Project Overview
    This Project demonstrates end-to-end Coffee Bean Shop data collection, followed by data cleaning in **Power Query**, and finally performing explorative analysis and visualization in **Power Bi.**
    Interactive Power BI dashboard analyzing coffee bean sales to identify top-performing products, geographic revenue drivers, loyalty program effectiveness, and seasonal revenue fluctuations. Supports inventory decisions, marketing targeting, and retention strategies for a coffee retailer. 
-   This dashboard support data-driven decision-making by summarizing coffee sales trends and highlighting areas that needs managerial attention.
+   This dashboard supports data-driven decision-making by summarizing coffee sales trends and highlighting areas that need managerial attention.
 
 ---
 ## 2. Business Problem
-The Coffee Bean Shop lacks a unified and interactive view of sales performance, cutomer geography, product prefernce, loyalty impact and seasonal/monthly trends across 2019-2022. Making it difficult for the business owner to quickly identify revenue drivers optimize inventory and product mix, targrt high -value markets, understand loyalty effects, and spot seasonal opportunities and declines to drive informed descisions on pricing, promotions, stocking, and expansion. A centralized dashboard is needed to transform the rae data into actionable insights that support better strategic and operational descisions. 
+The Coffee Bean Shop lacks a unified and interactive view of sales performance, customer geography, product preference, loyalty impact, and seasonal/monthly trends across 2019-2022. Making it difficult for the business owner to quickly identify revenue drivers, optimize inventory and product mix, targrt high -value markets, understand loyalty effects, and spot seasonal opportunities and declines to drive informed decisions on pricing, promotions, stocking, and expansion. A centralized dashboard is needed to transform the raw data into actionable insights that support better strategic and operational decisions. 
    ---
 ## 3. Data Source
    Coffee Bean Sales Raw Dataset (multi-table) was obtained from an online data professional. It has three Excel sheets.
@@ -64,7 +64,7 @@ The Coffee Bean Shop lacks a unified and interactive view of sales performance, 
 ### **Steps Completed**
 1. Loaded the three worksheets into Power BI.
 2. Checked for and handled blanks, nulls, and incorrect entries.
-3. Standardized incorrect entries, including:   
+3. Standardised incorrect entries, including:   
     - Ara - Arabica
     - Rob - Robusta
     - Lib - Liberica
@@ -108,7 +108,7 @@ Filter for:
 This page helps managers evaluate sales performance.
 
 ## Live Dashboard
-[Click here to view the Power BI Report] ( <iframe title="Cofee Dataset" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTRhNDVjMDQtYTQ1YS00Yjg5LTk1ODItNzVmYjM2YWVmNDBlIiwidCI6IjhlYTkzODI3LWM1NTktNDBkZC1iNGFkLTcwYWQ4YjBiYjhiZSJ9" frameborder="0" allowFullScreen="true"></iframe> )
+[Click here to view the Power BI Report] ( <iframe title="Coffee Dataset" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTRhNDVjMDQtYTQ1YS00Yjg5LTk1ODItNzVmYjM2YWVmNDBlIiwidCI6IjhlYTkzODI3LWM1NTktNDBkZC1iNGFkLTcwYWQ4YjBiYjhiZSJ9" frameborder="0" allowFullScreen="true"></iframe> )
 
 
 ---
@@ -116,12 +116,12 @@ This page helps managers evaluate sales performance.
 
 ### Overall Performance Snapshot
 - Total Revenue: ≈ $20.92K 
-- Total Orders: 479
-- Total Unique Customers: 479  
+- Total Orders: 479k
+- Total Unique Customers: 479k  
   → Every customer made exactly one order on average (low repeat purchase behavior → strong opportunity to improve customer retention)
 
 ### Customer & Market Geography
-- Dominant market: United States generates the vast majority of revenue/customers 
+- Dominant market: The United States generates the vast majority of revenue/customers 
 - Ireland — second place ($6–8K range)
 - United Kingdom — distant third ($2–3K range)
   
@@ -142,12 +142,12 @@ This page helps managers evaluate sales performance.
 4. Robusta — $4.2K
 
 - Customer count (who bought each type at least once):
-1. Excelsa — 132
-2. Arabica — 122
-3. Robusta — 118
-4. Liberica — 107
+1. Excelsa — 132k
+2. Arabica — 122k
+3. Robusta — 118k
+4. Liberica — 107k
 
-**Excelsa leads both in revenue and number of customers — currently the star product. ** 
+** Excelsa leads both in revenue and number of customers — currently the star product.** 
 ** Robusta lags noticeably — lowest revenue and fewer buyers** 
 
 ### Roast Type Preference
@@ -156,8 +156,8 @@ Revenue contribution :
 - Medium roast — ~33.6% ($7.03K)
 - Dark roast — ~30.96% ($6.48K)
 
-→ Very balanced preference, i.e no extreme skew.  
-→ Light roast has a slight edge, a trend worth watching if health/clean-taste narratives continue to grow.
+**Very balanced preference, i.e no extreme skew.**  
+**Light roast has a slight edge, a trend worth watching if health/clean-taste narratives continue to grow.**
 
 ### Seasonal / Time Trends
 - Revenue shows clear seasonality with multiple peaks and troughs across months
@@ -179,7 +179,7 @@ Revenue contribution :
   -  **PowerPoint** - Dashboard Template designing
 
 ---
-##10. Project Deliverables
+## 10. Project Deliverables
 
 - Fully Interactive Dashboard Power BI Report
 - Clean and structured dataset
@@ -192,7 +192,7 @@ Revenue contribution :
 
 
 ---
-#11. Potential extensions
+# 11. Potential extensions
 
 Drawing from the coffee Bean sales data (2019–2022), here are targeted extension opportunities. These focus on leveraging strengths (e.g., Excelsa dominance, the US market) while addressing weaknesses (e.g., low repeats, geographic concentration). I've prioritized them by feasibility and potential ROI, assuming a small-to-medium coffee business sales (e.g., roastery or online shop) with ~$21K annual revenue and one-time buyers.
 
