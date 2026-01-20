@@ -105,17 +105,18 @@ Filter for:
 This page helps managers evaluate sales performance.
 
 ## Live Dashboard
-[Click here to view the Power BI Report] ( 
+[Click here to view the Power BI Report] ( <iframe title="Cofee Dataset" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTRhNDVjMDQtYTQ1YS00Yjg5LTk1ODItNzVmYjM2YWVmNDBlIiwidCI6IjhlYTkzODI3LWM1NTktNDBkZC1iNGFkLTcwYWQ4YjBiYjhiZSJ9" frameborder="0" allowFullScreen="true"></iframe> )
 
 
    
    
-
+---
+## 8. Key Insights from the Dashboard
 
 ## 9. Tools Used
-  -  **Power BI Desktop** - data visualization and dashboard
+  -  **Microsoft Power BI** - data visualization and dashboard
        - [download here] (https://microsoft.com)
-  -  **Power Query** - data cleaning
-  -  **Data Modelling in Power BI** - Manage Relationships to ensure correct cordinality and cross-filter direction
-  -  **DAX** - measures
-  -  **PowerPoint** - Dashboard Template designing-
+  -  **Power Query Editor** - data cleaning
+  -  **Star Schema Data Model** - Manage Relationships to ensure correct cordinality and cross-filter direction
+  -  **DAX(Data Analysis Expression)** - measures
+  -  **PowerPoint** - Dashboard Template designing
