@@ -7,7 +7,7 @@
 4. Data Cleaning and Transformation (Power Query)
 5. Data Modelling
 6. DAX Measures Created
-7. Dasboard Design & Visuals
+7. Dashboard Design & Visuals
    - Page 1: Overview Dashboard
    - Page 2: Salesperson-details
 8. Key Insights from the Dashboard
