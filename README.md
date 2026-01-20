@@ -181,7 +181,11 @@ Revenue contribution :
 ---
 ##10. Project Deliverables
 
-
+- Fully Interactive Dashboard Power BI Report
+- Clean and structured dataset
+- Star Schema data model
+- Reusable DAX Measure
+- Test documentation for portfolio use
 
 
 
