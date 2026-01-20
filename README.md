@@ -101,9 +101,6 @@ An interactive dashboard analyzing coffee bean shop sales across countries, cust
 - Total Orders
 - Unique Customers
 
-  ## Key Business Insights
-  ### 1. 
-
 
 Filter for:
 - Loyalty Card
@@ -114,8 +111,6 @@ This page helps managers evaluate sales performance.
 [Click here to view the Power BI Report] ( <iframe title="Cofee Dataset" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTRhNDVjMDQtYTQ1YS00Yjg5LTk1ODItNzVmYjM2YWVmNDBlIiwidCI6IjhlYTkzODI3LWM1NTktNDBkZC1iNGFkLTcwYWQ4YjBiYjhiZSJ9" frameborder="0" allowFullScreen="true"></iframe> )
 
 
-   
-   
 ---
 ## 8. Key Insights from the Dashboard
 
@@ -126,20 +121,20 @@ This page helps managers evaluate sales performance.
   → Every customer made exactly one order on average (low repeat purchase behavior → strong opportunity to improve customer retention)
 
 ### Customer & Market Geography
-- Dominant market: United States generates the vast majority of revenue/customers (0.37M in the bar chart scale — most likely $370K if mis-scaled labels or $18–19K realistic given total)
+- Dominant market: United States generates the vast majority of revenue/customers 
 - Ireland — second place ($6–8K range)
 - United Kingdom — distant third ($2–3K range)
   
-→ Business is heavily US-dependent (80–90% of revenue). Very limited geographic diversification → high risk if the US market softens.
+** Business is heavily US-dependent (80–90% of revenue). Very limited geographic diversification → high risk if the US market softens.**
 
 ### Loyalty Program Effectiveness
 - Loyalty Card holders (Yes): significantly fewer customers than non-holders.
-- Non-loyalty customers drive much higher total revenue .
+- Non-loyalty customers drive much higher total revenue.
 
-→ Loyalty program underperforming  
-→ Urgent opportunity: increase sign-ups + analyze whether loyalty members have higher LTV (lifetime value) over multiple purchases.
+- Loyalty program underperforming  
+- Urgent opportunity: increase sign-ups + analyze whether loyalty members have higher LTV (lifetime value) over multiple purchases.
 
-### Product Performance — Coffee Types
+### Product Performance (Coffee Types)
 - Revenue ranking (highest to lowest):
 1. Excelsa — $6.1K
 2. Arabica — $5.4K
@@ -152,31 +147,25 @@ This page helps managers evaluate sales performance.
 3. Robusta — 118
 4. Liberica — 107
 
-→ Excelsa leads both in revenue and number of customers — currently the star product.  
-→ Robusta lags noticeably — lowest revenue and fewest buyers → candidate for review (phase out? reposition? bundle?).
+**Excelsa leads both in revenue and number of customers — currently the star product. ** 
+** Robusta lags noticeably — lowest revenue and fewer buyers** 
 
 ### Roast Type Preference
-Revenue contribution (donut chart — percentages very close):
+Revenue contribution :
 - Light roast — ~35.4% ($7.41K)
 - Medium roast — ~33.6% ($7.03K)
 - Dark roast — ~30.96% ($6.48K)
 
 → Very balanced preference, i.e no extreme skew.  
-→ Light roast has a slight edge, trend worth watching if health/clean-taste narratives continue to grow.
+→ Light roast has a slight edge, a trend worth watching if health/clean-taste narratives continue to grow.
 
 ### Seasonal / Time Trends
 - Revenue shows clear seasonality with multiple peaks and troughs across months
 - Highest points appear around the March–May and October–November periods
 - Noticeable dips in July–August and around December–January
 
-→ Classic coffee seasonality pattern (stronger in cooler/spring months in Northern Hemisphere markets).  
-→ Opportunity: run promotions during low periods (summer/back-to-school dip).
-
-
-
-
-
-
+**Classic coffee seasonality pattern (stronger in cooler/spring months in Northern Hemisphere markets).** 
+**Opportunity: run promotions during low periods (summer/back-to-school dip).**
 
 
 ---
