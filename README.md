@@ -1,4 +1,4 @@
-# Coffee Bean Orders Analysis (Product, Loyalty, and Seasonal Trends Analysis)
+# Coffee Bean Orders Analysis to Identify Revenue Growth Opportunities
 
 ## Table of Contents
 1. Project Overview
